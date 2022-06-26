@@ -1,4 +1,4 @@
-### Opa, tranquilo? Sou o Pedro Henrique! 🐱‍💻
+### Opa, tranquilo? 🐱‍💻
 
 - 🔭 Hoje sou freelancer focado mais no front-end
 - 📚 Estudando Typescript e ReactJs
