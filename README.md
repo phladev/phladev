@@ -1,6 +1,6 @@
 ### Opa, tranquilo? 🐱‍💻
 
-- 🔭 Hoje sou um freelancer focado mais no front-end
+- 🔭 Desenvolvimento Web
 - 📚 Estudando Typescript e ReactJs
 - 📫 Contate-me no email: phladev05@gmail.com
 - ⚡ Sempre disposto a aprender mais!
