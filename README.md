@@ -11,12 +11,15 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pxdro-NextJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Pxdro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pxdro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pxdro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pxdro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pxdro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Pxdro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pxdro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pxdro-PrismaORM" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prisma/prisma-original.svg">
+  <img align="center" alt="Pxdro-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Pxdro-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Pxdro-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pxdro-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 ##
