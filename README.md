@@ -4,7 +4,7 @@
 - 📫 Contate-me no email: phladev05@gmail.com
 - ⚡ Sempre disposto a aprender mais!
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/pxdrobdf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phladev&layout=compact&langs_count=7&theme=dark"/>
 </div>
